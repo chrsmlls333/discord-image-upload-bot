@@ -1,0 +1,8 @@
+{
+  "botToken": "??",
+  "channelID": "??",
+  "approvedUserID": "??",
+  "interval": [5, 5],
+  "shuffled": false,
+  "imageFolder": "??"
+}
